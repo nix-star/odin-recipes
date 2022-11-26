@@ -1,0 +1,43 @@
+h1, h2, h3 {
+    font-family: Verdana, Arial, sans-serif;
+}
+
+h1 {
+    background-color: red;
+    color: whitesmoke;
+    text-align: center;
+}
+
+h2 {
+    background-color: yellow;
+}
+
+h3 {
+    background-color: orange;
+}
+
+p, li {
+    font-family: Arial, sans-serif;
+}
+
+p {
+    font-weight: 300;
+    font-size: 1em;
+    text-align: justify;
+}
+
+li {
+    font-weight: 100;
+    font-size: 0.9em;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+a, a:visited {
+    text-decoration: none;
+    font-weight: bold;
+    color: #222222;
+}
